@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MSTTest</string>
+    <string name="title_activity_main">ITunes Searcher</string>
+    <string name="empty_result">Поиск не дал результатов</string>
+    <string name="loading_error">Ошибка. Проверьте подключение</string>
+    <string name="search_hint">Введите запрос</string>
+</resources>
